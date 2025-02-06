@@ -1,0 +1,4 @@
+int a,b;
+x=a+b;
+Console.WriteLine("The sum of two numbers is {x});
+Console.ReadLine();
